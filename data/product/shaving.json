@@ -1,0 +1,54 @@
+{
+  "category": "면도/구강",
+  "total": 6,
+  "list": [
+    {
+      "id": 7,
+      "category": "면도기",
+      "thumbnailImage": "https://img.freepik.com/free-photo/man-doing-his-self-care-ritual_23-2149204998.jpg?t=st=1695298195~exp=1695298795~hmac=1fde46f5b3576653fba89ba2452afdfecad3e796cc6803b86268bdd1151ddb4a",
+      "price": 10000,
+      "name": "일회용 간편 면도기",
+      "description": "들고 다니기 편한 일회용 면도기"
+    },
+    {
+      "id": 8,
+      "category": "삼중날면도기",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/metal-safety-razors-mockup-perspective_1332-13804.jpg",
+      "price": 15000,
+      "name": "삼중날 면도기",
+      "description": "부드러운 삼중날 면도기!"
+    },
+    {
+      "id": 9,
+      "category": "전동면도기",
+      "thumbnailImage": "https://img.freepik.com/premium-vector/vector-flat-icon-slice-cheese-with-two-distinct-holes_176841-4792.jpg",
+      "price": 17000,
+      "name": "전동 면도기",
+      "description": "정말 편한 전동 면도기"
+    },
+    {
+      "id": 10,
+      "category": "치약",
+      "thumbnailImage": "https://img.freepik.com/premium-photo/ttoothpaste-containers-white-isolated-background_505080-1414.jpg",
+      "price": 13000,
+      "name": "성인용 치약",
+      "description": "건강한 치아를 위한 치약"
+    },
+    {
+      "id": 11,
+      "category": "가글",
+      "thumbnailImage": "https://img.freepik.com/premium-vector/mouthwash-ad-template_317396-1504.jpg",
+      "price": 7000,
+      "name": "정말 편한 가그린",
+      "description": "휴대용 가그린! "
+    },
+    {
+      "id": 12,
+      "category": "어린이치약",
+      "thumbnailImage": "https://img.freepik.com/free-psd/cream-jar-mock-up_1104-167.jpg?w=1480&t=st=1695298435~exp=1695299035~hmac=9f5a181ef9ab19d826ea8e108f0cd691b43071f1f12871136a45ef0db2cb8b24",
+      "price": 12000,
+      "name": "어린이 치약",
+      "description": "안매운 어린이치약!"
+    }
+  ]
+}

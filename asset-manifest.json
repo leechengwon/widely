@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/widely/static/css/main.c5dc723e.css",
+    "main.js": "/widely/static/js/main.bfdf4744.js",
+    "index.html": "/widely/index.html",
+    "main.c5dc723e.css.map": "/widely/static/css/main.c5dc723e.css.map",
+    "main.bfdf4744.js.map": "/widely/static/js/main.bfdf4744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5dc723e.css",
+    "static/js/main.bfdf4744.js"
+  ]
+}

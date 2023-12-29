@@ -1,0 +1,54 @@
+{
+  "category": "푸드",
+  "total": 6,
+  "list": [
+    {
+      "id": 19,
+      "category": "살살녹는 빵",
+      "thumbnailImage": "https://live.staticflickr.com/4031/4646946729_d48fa0947f_k.jpg",
+      "price": 10000,
+      "name": "정말 맛있는 빵!! 살살녹는바게트빵!!",
+      "description": "바삭바삭하게 속은 촉촉하게 만든 바게트빵"
+    },
+    {
+      "id": 20,
+      "category": "쿠키",
+      "thumbnailImage": "https://live.staticflickr.com/4072/4647544134_4a1cf094f3_k.jpg",
+      "price": 5000,
+      "name": "아삭아삭 초코쿠키",
+      "description": "어린이들을 위한 간식!!"
+    },
+    {
+      "id": 21,
+      "category": "식빵",
+      "thumbnailImage": "https://media.istockphoto.com/id/185235465/ko/%EC%82%AC%EC%A7%84/white-%ED%86%A0%EC%8A%A4%ED%8A%B8.jpg?s=1024x1024&w=is&k=20&c=FyEYH6xFDyy4eYmV175rGv1GBJEeiLg8jxK8GjMGRnA=",
+      "price": 7000,
+      "name": "정말 부드러운 식빵",
+      "description": "각종 잼의 발라먹기 좋은 식빵"
+    },
+    {
+      "id": 22,
+      "category": "햄버거빵",
+      "thumbnailImage": "https://media.istockphoto.com/id/1178954509/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B3%A0%EB%A6%BD-%EB%90%9C-%EC%B0%B8%EA%B9%A8-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%A1%A4%EB%B9%B5-%EB%A7%A8-%EC%9C%84-%EB%B3%B4%EA%B8%B0.webp?s=1024x1024&w=is&k=20&c=8720QYvXXzn8ZqGzqLrHo568kMHa3UQyvar5uW5yyKo=",
+      "price": 13000,
+      "name": "햄버거 만들기 좋은 햄버거빵",
+      "description": "햄버거를 집에서 만들어먹기 좋은 빵"
+    },
+    {
+      "id": 23,
+      "category": "샌드위치",
+      "thumbnailImage": "https://live.staticflickr.com/1968/30998593758_663130fb28_3k.jpg",
+      "price": 11000,
+      "name": "간편 샌드위치",
+      "description": "아침에 먹기좋은 간편 샌드위치"
+    },
+    {
+      "id": 24,
+      "category": "바나나빵",
+      "thumbnailImage": "https://live.staticflickr.com/1933/45145566212_cfeb67a1cc_k.jpg",
+      "price": 22000,
+      "name": "달콤한 바나나 빵",
+      "description": "달콤달콤한 바나나빵"
+    }
+  ]
+}

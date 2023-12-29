@@ -1,0 +1,54 @@
+{
+  "category": "신제품",
+  "total": 6,
+  "list": [
+    {
+      "id": 19,
+      "category": "살살녹는 빵",
+      "thumbnailImage": "https://live.staticflickr.com/4031/4646946729_d48fa0947f_k.jpg",
+      "price": 10000,
+      "name": "정말 맛있는 빵!! 살살녹는바게트빵!!",
+      "description": "바삭바삭하게 속은 촉촉하게 만든 바게트빵"
+    },
+    {
+      "id": 2,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/free-photo/pills-viral-disease-spilled-from-bottle_53876-144979.jpg?t=st=1695298770~exp=1695299370~hmac=e0cf11428414d516b3c0131e55b335c0aa22a1d8e987e3c546ce9a059544af68",
+      "price": 5000,
+      "name": "눈 건강 루테인/아스타잔틴",
+      "description": "[2개월분] 눈 관련 식약처 고시 성분 세 가지를 한 캡슐로. 눈 건강 집중 케어"
+    },
+    {
+      "id": 9,
+      "category": "전동면도기",
+      "thumbnailImage": "https://img.freepik.com/premium-vector/vector-flat-icon-slice-cheese-with-two-distinct-holes_176841-4792.jpg",
+      "price": 17000,
+      "name": "전동 면도기",
+      "description": "정말 편한 전동 면도기"
+    },
+    {
+      "id": 23,
+      "category": "샌드위치",
+      "thumbnailImage": "https://live.staticflickr.com/1968/30998593758_663130fb28_3k.jpg",
+      "price": 11000,
+      "name": "간편 샌드위치",
+      "description": "아침에 먹기좋은 간편 샌드위치"
+    },
+    {
+      "id": 15,
+      "category": "클렌징폼",
+      "thumbnailImage": "https://img.freepik.com/free-psd/cosmetic-mockup_15879-622.jpg?w=1480&t=st=1695297909~exp=1695298509~hmac=f5bde9b3d83a8be8a8a9fb90ec442f04411bc7e2412a2c6d7e2db49289a056da",
+      "price": 7000,
+      "name": "클렌징 폼",
+      "description": "깨끗한 얼굴 클렌징폼"
+    },
+    {
+      "id": 1,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/free-photo/traditional-chinese-medicine-astragalus-membranaceus_1387-251.jpg?t=st=1695298831~exp=1695299431~hmac=58953f7c8273312d386694ec3dfcc3563d464e3d87ccd3f4c6434186e00c7de4",
+      "price": 10000,
+      "name": "발효침향환 60환",
+      "description": "[2개월분] 장 건강과 배변활동 원활에 도움을 줄 수 있는 100억 CFU 보장 유산균"
+    }
+  ]
+}

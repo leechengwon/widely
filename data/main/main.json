@@ -1,0 +1,228 @@
+{
+  "data": {
+    "resultOne": [
+      {
+        "id": 1,
+        "name": "발효침향환 60환",
+        "price": "10000",
+        "stock": 10,
+        "description": "[2개월분] 장 건강과 배변활동 원활에 도움을 줄 수 있는 100억 CFU 보장 유산균",
+        "category": "영양제",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 2,
+        "name": "눈 건강 루테인/아스타잔틴",
+        "price": "5000",
+        "stock": 10,
+        "description": "[2개월분] 눈 관련 식약처 고시 성분 세 가지를 한 캡슐로. 눈 건강 집중 케어",
+        "category": "영양제",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 3,
+        "name": "활력충전 아르기닌 6000",
+        "price": "7000",
+        "stock": 10,
+        "description": "[15일분] 한 포에 초고함량 L-아르기닌 6,000mg을 가득",
+        "category": "영양제",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 4,
+        "name": "장 건강 유산균",
+        "price": "13000",
+        "stock": 10,
+        "description": "[2개월분] 장 건강과 배변활동 원활에 도움을 줄 수 있는 100억 CFU 보장 유산균",
+        "category": "영양제",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 5,
+        "name": "블랙 마카",
+        "price": "11000",
+        "stock": 10,
+        "description": "[1개월분] 코엔자임Q10, 홍국, 은행잎추출물로 만든 알찬 배합",
+        "category": "영양제",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 6,
+        "name": "전립선・지구력 쏘팔메토/옥타코사놀",
+        "price": "22000",
+        "stock": 10,
+        "description": "[2개월분] 쏘팔메토열매추출물 383mg (로르산 115mg), 옥타코사놀 40mg, 식약처 일일 최대 섭취량으로 배합",
+        "category": "영양제",
+        "image": "smallimage.com"
+      }
+    ],
+    "resultTwo": [
+      {
+        "id": 7,
+        "name": "일회용 간편 면도기",
+        "price": "10000",
+        "stock": 10,
+        "description": "들고 다니기 편한 일회용 면도기",
+        "category": "면도/구강",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 8,
+        "name": "삼중날 면도기",
+        "price": "15000",
+        "stock": 10,
+        "description": "부드러운 삼중날 면도기!",
+        "category": "면도/구강",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 9,
+        "name": "전동 면도기",
+        "price": "17000",
+        "stock": 10,
+        "description": "정말 편한 전동 면도기",
+        "category": "면도/구강",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 10,
+        "name": "성인용 치약",
+        "price": "13000",
+        "stock": 10,
+        "description": "건강한 치아를 위한 치약",
+        "category": "면도/구강",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 11,
+        "name": "정말 편한 가그린",
+        "price": "7000",
+        "stock": 10,
+        "description": "휴대용 가그린!",
+        "category": "면도/구강",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 12,
+        "name": "어린이 치약",
+        "price": "12000",
+        "stock": 10,
+        "description": "안매운 어린이치약!",
+        "category": "면도/구강",
+        "image": "smallimage.com"
+      }
+    ],
+    "resultThree": [
+      {
+        "id": 13,
+        "name": "니베아 수분크림",
+        "price": "10000",
+        "stock": 10,
+        "description": "촉촉한 수분크림",
+        "category": "스킨케어",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 14,
+        "name": "세럼",
+        "price": "5000",
+        "stock": 10,
+        "description": "피부 수분 충전 세럼",
+        "category": "스킨케어",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 15,
+        "name": "클렌징 폼",
+        "price": "7000",
+        "stock": 10,
+        "description": "깨끗한 얼굴 클렌징폼",
+        "category": "스킨케어",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 16,
+        "name": "영양 크림",
+        "price": "13000",
+        "stock": 10,
+        "description": "피부 영양을 주는 영양 크림",
+        "category": "스킨케어",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 17,
+        "name": "달팽이 크림",
+        "price": "11000",
+        "stock": 10,
+        "description": "영양 듬뿍 달팽이 크림",
+        "category": "스킨케어",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 18,
+        "name": "스킨올인원",
+        "price": "22000",
+        "stock": 10,
+        "description": "올인원 스킨",
+        "category": "스킨케어",
+        "image": "smallimage.com"
+      }
+    ],
+    "resultFour": [
+      {
+        "id": 19,
+        "name": "살살녹는바게트빵!!",
+        "price": "10000",
+        "stock": 10,
+        "description": "바삭바삭하게 속은 촉촉하게 만든 바게트빵",
+        "category": "푸드",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 20,
+        "name": "아삭아삭 초코쿠키",
+        "price": "5000",
+        "stock": 10,
+        "description": "어린이들을 위한 간식!!",
+        "category": "푸드",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 21,
+        "name": "정말 부드러운 식빵",
+        "price": "7000",
+        "stock": 10,
+        "description": "각종 잼의 발라먹기 좋은 식빵",
+        "category": "푸드",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 22,
+        "name": "햄버거 만들기 좋은 햄버거빵",
+        "price": "13000",
+        "stock": 10,
+        "description": "햄버거를 집에서 만들어먹기 좋은 빵",
+        "category": "푸드",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 23,
+        "name": "간편 샌드위치",
+        "price": "11000",
+        "stock": 10,
+        "description": "아침에 먹기좋은 간편 샌드위치",
+        "category": "푸드",
+        "image": "smallimage.com"
+      },
+      {
+        "id": 24,
+        "name": "달콤한 바나나 빵",
+        "price": "22000",
+        "stock": 10,
+        "description": "달콤달콤한 바나나빵",
+        "category": "푸드",
+        "image": "smallimage.com"
+      }
+    ]
+  }
+}

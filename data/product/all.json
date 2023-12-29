@@ -1,0 +1,198 @@
+{
+  "category": "전체보기",
+  "total": 24,
+  "list": [
+    {
+      "id": 1,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/free-photo/traditional-chinese-medicine-astragalus-membranaceus_1387-251.jpg?t=st=1695298831~exp=1695299431~hmac=58953f7c8273312d386694ec3dfcc3563d464e3d87ccd3f4c6434186e00c7de4",
+      "price": 10000,
+      "name": "발효침향환 60환",
+      "description": "[2개월분] 장 건강과 배변활동 원활에 도움을 줄 수 있는 100억 CFU 보장 유산균"
+    },
+    {
+      "id": 2,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/free-photo/pills-viral-disease-spilled-from-bottle_53876-144979.jpg?t=st=1695298770~exp=1695299370~hmac=e0cf11428414d516b3c0131e55b335c0aa22a1d8e987e3c546ce9a059544af68",
+      "price": 5000,
+      "name": "눈 건강 루테인/아스타잔틴",
+      "description": "[2개월분] 눈 관련 식약처 고시 성분 세 가지를 한 캡슐로. 눈 건강 집중 케어"
+    },
+    {
+      "id": 3,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/free-photo/pills-package_23-2147983067.jpg?t=st=1695298932~exp=1695299532~hmac=db0dfb7572ce35e449308bae362b9eb62c2a29c3803183e240c5c8cf56c744b0",
+      "price": 7000,
+      "name": "활력충전 아르기닌 6000",
+      "description": "[15일분] 한 포에 초고함량 L-아르기닌 6,000mg을 가득"
+    },
+    {
+      "id": 4,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/premium-photo/colorful-pills-plastic-bottle_23-2147983117.jpg",
+      "price": 13000,
+      "name": "장 건강 유산균",
+      "description": "[2개월분] 장 건강과 배변활동 원활에 도움을 줄 수 있는 100억 CFU 보장 유산균"
+    },
+    {
+      "id": 5,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/free-photo/packings-pills-capsules-medicines_1339-2247.jpg?t=st=1695298902~exp=1695299502~hmac=0b80671fd3ba6716292d01f85f939b68653691804cdc36fccef829fa1ec5dbca",
+      "price": 11000,
+      "name": "블랙 마카",
+      "description": "[1개월분] 코엔자임Q10, 홍국, 은행잎추출물로 만든 알찬 배합"
+    },
+    {
+      "id": 6,
+      "category": "영양제",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/gravity-bottle-with-falling-pills-mockup_7956-710.jpg",
+      "price": 22000,
+      "name": "전립선・지구력 쏘팔메토/옥타코사놀",
+      "description": "[2개월분] 쏘팔메토열매추출물 383mg (로르산 115mg), 옥타코사놀 40mg, 식약처 일일 최대 섭취량으로 배합"
+    },
+    {
+      "id": 7,
+      "category": "면도기",
+      "thumbnailImage": "https://img.freepik.com/free-photo/man-doing-his-self-care-ritual_23-2149204998.jpg?t=st=1695298195~exp=1695298795~hmac=1fde46f5b3576653fba89ba2452afdfecad3e796cc6803b86268bdd1151ddb4a",
+      "price": 10000,
+      "name": "일회용 간편 면도기",
+      "description": "들고 다니기 편한 일회용 면도기"
+    },
+    {
+      "id": 8,
+      "category": "삼중날면도기",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/metal-safety-razors-mockup-perspective_1332-13804.jpg",
+      "price": 15000,
+      "name": "삼중날 면도기",
+      "description": "부드러운 삼중날 면도기!"
+    },
+    {
+      "id": 9,
+      "category": "전동면도기",
+      "thumbnailImage": "https://img.freepik.com/premium-vector/vector-flat-icon-slice-cheese-with-two-distinct-holes_176841-4792.jpg",
+      "price": 17000,
+      "name": "전동 면도기",
+      "description": "정말 편한 전동 면도기"
+    },
+    {
+      "id": 10,
+      "category": "치약",
+      "thumbnailImage": "https://img.freepik.com/premium-photo/ttoothpaste-containers-white-isolated-background_505080-1414.jpg",
+      "price": 13000,
+      "name": "성인용 치약",
+      "description": "건강한 치아를 위한 치약"
+    },
+    {
+      "id": 11,
+      "category": "가글",
+      "thumbnailImage": "https://img.freepik.com/premium-vector/mouthwash-ad-template_317396-1504.jpg",
+      "price": 7000,
+      "name": "정말 편한 가그린",
+      "description": "휴대용 가그린! "
+    },
+    {
+      "id": 12,
+      "category": "어린이치약",
+      "thumbnailImage": "https://img.freepik.com/free-psd/cream-jar-mock-up_1104-167.jpg?w=1480&t=st=1695298435~exp=1695299035~hmac=9f5a181ef9ab19d826ea8e108f0cd691b43071f1f12871136a45ef0db2cb8b24",
+      "price": 12000,
+      "name": "어린이 치약",
+      "description": "안매운 어린이치약!"
+    },
+    {
+      "id": 13,
+      "category": "니베아",
+      "thumbnailImage": "https://live.staticflickr.com/4077/4748982290_2b922b504b_k.jpg",
+      "price": 10000,
+      "name": "니베아 수분크림",
+      "description": "촉촉한 수분크림"
+    },
+    {
+      "id": 14,
+      "category": "세럼",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/skin-care-moisturizing-cosmetic-premium-products_99236-252.jpg",
+      "price": 5000,
+      "name": "세럼",
+      "description": "피부 수분 충전 세럼"
+    },
+    {
+      "id": 15,
+      "category": "클렌징폼",
+      "thumbnailImage": "https://img.freepik.com/free-psd/cosmetic-mockup_15879-622.jpg?w=1480&t=st=1695297909~exp=1695298509~hmac=f5bde9b3d83a8be8a8a9fb90ec442f04411bc7e2412a2c6d7e2db49289a056da",
+      "price": 7000,
+      "name": "클렌징 폼",
+      "description": "깨끗한 얼굴 클렌징폼"
+    },
+    {
+      "id": 16,
+      "category": "영양크림",
+      "thumbnailImage": "https://img.freepik.com/free-psd/white-face-cream-tube-mockup_53876-57801.jpg?t=st=1695297966~exp=1695298566~hmac=5879bd813965fc46e43ae3814eefed7d21b1667926009b43960a5911a46519f8",
+      "price": 13000,
+      "name": "영양 크림",
+      "description": "피부 영양을 주는 영양 크림"
+    },
+    {
+      "id": 17,
+      "category": "달팽이크림",
+      "thumbnailImage": "https://img.freepik.com/premium-photo/jar-cream-place-advertising-logo-text-mocap-silk-background-generative-ai_655310-3584.jpg?w=740",
+      "price": 11000,
+      "name": "달팽이 크림",
+      "description": "영양 듬뿍 달팽이 크림"
+    },
+    {
+      "id": 18,
+      "category": "스킨",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/3d-render-dropper-bottle-rock-podium-with-tropical-leaf-product-display_252008-1419.jpg?size=626&ext=jpg&ga=GA1.2.1374898282.1695297833&semt=ais",
+      "price": 22000,
+      "name": "스킨올인원",
+      "description": "올인원 스킨"
+    },
+    {
+      "id": 19,
+      "category": "살살녹는 빵",
+      "thumbnailImage": "https://live.staticflickr.com/4031/4646946729_d48fa0947f_k.jpg",
+      "price": 10000,
+      "name": "정말 맛있는 빵!! 살살녹는바게트빵!!",
+      "description": "바삭바삭하게 속은 촉촉하게 만든 바게트빵"
+    },
+    {
+      "id": 20,
+      "category": "쿠키",
+      "thumbnailImage": "https://live.staticflickr.com/4072/4647544134_4a1cf094f3_k.jpg",
+      "price": 5000,
+      "name": "아삭아삭 초코쿠키",
+      "description": "어린이들을 위한 간식!!"
+    },
+    {
+      "id": 21,
+      "category": "식빵",
+      "thumbnailImage": "https://media.istockphoto.com/id/185235465/ko/%EC%82%AC%EC%A7%84/white-%ED%86%A0%EC%8A%A4%ED%8A%B8.jpg?s=1024x1024&w=is&k=20&c=FyEYH6xFDyy4eYmV175rGv1GBJEeiLg8jxK8GjMGRnA=",
+      "price": 7000,
+      "name": "정말 부드러운 식빵",
+      "description": "각종 잼의 발라먹기 좋은 식빵"
+    },
+    {
+      "id": 22,
+      "category": "햄버거빵",
+      "thumbnailImage": "https://media.istockphoto.com/id/1178954509/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B3%A0%EB%A6%BD-%EB%90%9C-%EC%B0%B8%EA%B9%A8-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%A1%A4%EB%B9%B5-%EB%A7%A8-%EC%9C%84-%EB%B3%B4%EA%B8%B0.webp?s=1024x1024&w=is&k=20&c=8720QYvXXzn8ZqGzqLrHo568kMHa3UQyvar5uW5yyKo=",
+      "price": 13000,
+      "name": "햄버거 만들기 좋은 햄버거빵",
+      "description": "햄버거를 집에서 만들어먹기 좋은 빵"
+    },
+    {
+      "id": 23,
+      "category": "샌드위치",
+      "thumbnailImage": "https://live.staticflickr.com/1968/30998593758_663130fb28_3k.jpg",
+      "price": 11000,
+      "name": "간편 샌드위치",
+      "description": "아침에 먹기좋은 간편 샌드위치"
+    },
+    {
+      "id": 24,
+      "category": "바나나빵",
+      "thumbnailImage": "https://live.staticflickr.com/1933/45145566212_cfeb67a1cc_k.jpg",
+      "price": 22000,
+      "name": "달콤한 바나나 빵",
+      "description": "달콤달콤한 바나나빵"
+    }
+  ]
+}

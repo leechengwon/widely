@@ -1,0 +1,54 @@
+{
+  "category": "스킨케어",
+  "total": 6,
+  "list": [
+    {
+      "id": 13,
+      "category": "니베아",
+      "thumbnailImage": "https://live.staticflickr.com/4077/4748982290_2b922b504b_k.jpg",
+      "price": 10000,
+      "name": "니베아 수분크림",
+      "description": "촉촉한 수분크림"
+    },
+    {
+      "id": 14,
+      "category": "세럼",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/skin-care-moisturizing-cosmetic-premium-products_99236-252.jpg",
+      "price": 5000,
+      "name": "세럼",
+      "description": "피부 수분 충전 세럼"
+    },
+    {
+      "id": 15,
+      "category": "클렌징폼",
+      "thumbnailImage": "https://img.freepik.com/free-psd/cosmetic-mockup_15879-622.jpg?w=1480&t=st=1695297909~exp=1695298509~hmac=f5bde9b3d83a8be8a8a9fb90ec442f04411bc7e2412a2c6d7e2db49289a056da",
+      "price": 7000,
+      "name": "클렌징 폼",
+      "description": "깨끗한 얼굴 클렌징폼"
+    },
+    {
+      "id": 16,
+      "category": "영양크림",
+      "thumbnailImage": "https://img.freepik.com/free-psd/white-face-cream-tube-mockup_53876-57801.jpg?t=st=1695297966~exp=1695298566~hmac=5879bd813965fc46e43ae3814eefed7d21b1667926009b43960a5911a46519f8",
+      "price": 13000,
+      "name": "영양 크림",
+      "description": "피부 영양을 주는 영양 크림"
+    },
+    {
+      "id": 17,
+      "category": "달팽이크림",
+      "thumbnailImage": "https://img.freepik.com/premium-photo/jar-cream-place-advertising-logo-text-mocap-silk-background-generative-ai_655310-3584.jpg?w=740",
+      "price": 11000,
+      "name": "달팽이 크림",
+      "description": "영양 듬뿍 달팽이 크림"
+    },
+    {
+      "id": 18,
+      "category": "스킨",
+      "thumbnailImage": "https://img.freepik.com/premium-psd/3d-render-dropper-bottle-rock-podium-with-tropical-leaf-product-display_252008-1419.jpg?size=626&ext=jpg&ga=GA1.2.1374898282.1695297833&semt=ais",
+      "price": 22000,
+      "name": "스킨올인원",
+      "description": "올인원 스킨"
+    }
+  ]
+}

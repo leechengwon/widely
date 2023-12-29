@@ -17,7 +17,7 @@ import ScrollToTop from './components/ScrollTop/ScrollTop';
 
 const Router = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/widely">
       <ScrollToTop />
       <Nav />
       <Routes>

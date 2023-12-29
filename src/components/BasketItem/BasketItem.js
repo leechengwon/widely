@@ -23,7 +23,7 @@ const BasketItem = (props) => {
         <img
           className="bsXimage"
           alt="삭제"
-          src="../../../data/Image/delete_black.jpg"
+          src="https://leechengwon.github.io/widely/images/deleteBtn.jpg"
           onClick={deleteItem}
         />
       </div>

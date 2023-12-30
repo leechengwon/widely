@@ -12,6 +12,7 @@
 
 
 ### 데모 영상(이미지 클릭)
+https://www.youtube.com/watch?v=OOech0n1wDg&t=10s
 
 
 ### 적용 기술

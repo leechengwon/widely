@@ -24,5 +24,5 @@ https://www.youtube.com/watch?v=OOech0n1wDg&t=10s
 >리스트 페이지
 >디테일 페이지
 >페이지 네이션
->검색 기능
->필터 기능
+>검색기능
+>필터기능

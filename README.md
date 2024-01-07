@@ -15,7 +15,7 @@
 > Teammates: 박민재(F), 이청원(F), 김기영(F) / 정현우(B), 이준호(B), 고은채(B)<br />
 
 
-### 데모 영상(이미지 클릭)
+### 홈페이지 데모 영상(url 클릭)
 https://www.youtube.com/watch?v=OOech0n1wDg&t=10s
 
 

@@ -1,5 +1,9 @@
 <img width="1728" alt="스크린샷 2024-01-07 오후 4 00 49" src="https://github.com/leechengwon/widely/assets/141094801/2212a8f0-fcbf-4f2b-a8a9-2d483e92a504">
 
+홈페이지 둘러보기
+<br/>
+  - <a href="https://leechengwon.github.io/widely/">와이들리</a>
+
 
 # Team widely
 * 생활용품 쇼핑몰 와이즐리 카피 프로젝트

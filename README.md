@@ -18,8 +18,7 @@
 
 
 ### 홈페이지 둘러보기
-<br/>
-  - <a href="https://leechengwon.github.io/widely/">와이들리</a>
+<br/> - <a href="https://leechengwon.github.io/widely/">와이들리 링크</a>
 
 
 ### 홈페이지 데모 영상(url 클릭)

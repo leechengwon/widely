@@ -1,8 +1,6 @@
 <img width="1728" alt="스크린샷 2024-01-07 오후 4 00 49" src="https://github.com/leechengwon/widely/assets/141094801/2212a8f0-fcbf-4f2b-a8a9-2d483e92a504">
 
-홈페이지 둘러보기
-<br/>
-  - <a href="https://leechengwon.github.io/widely/">와이들리</a>
+
 
 
 # Team widely
@@ -17,6 +15,11 @@
 > Product Manager: 이청원(F) <br />
 > Project Manager: 차승혁(B) <br />
 > Teammates: 박민재(F), 이청원(F), 김기영(F) / 정현우(B), 이준호(B), 고은채(B)<br />
+
+
+### 홈페이지 둘러보기
+<br/>
+  - <a href="https://leechengwon.github.io/widely/">와이들리</a>
 
 
 ### 홈페이지 데모 영상(url 클릭)

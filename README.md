@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=OOech0n1wDg&t=10s
   - <a href="https://github.com/leechengwon" target="_blank">이청원</a>
     - 페이지: 리스트페이지 , 디테일페이지 
     - 추가 기능:페이지네이션,필터기능,검색기능
+    - 2024.01.26 반응형을 리팩토링 하였습니다.
 
 - Tech stacks
 
